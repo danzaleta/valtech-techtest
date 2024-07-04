@@ -25,7 +25,7 @@
     "apollo-client": "^2.5.1",
     "graphql": "^14.6.0",
     "typescript": "3.9.7",
-    "valtech.cookie-fortune": "https://danz--valtech.myvtex.com/_v/private/typings/linked/v1/valtech.cookie-fortune@0.0.1+build1720052798/public/@types/valtech.cookie-fortune",
+    "valtech.cookie-fortune": "https://danz--valtech.myvtex.com/_v/private/typings/linked/v1/valtech.cookie-fortune@0.0.1+build1720068795/public/@types/valtech.cookie-fortune",
     "vtex.add-to-cart-button": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.add-to-cart-button@0.30.2/public/@types/vtex.add-to-cart-button",
     "vtex.breadcrumb": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.breadcrumb@1.9.4/public/@types/vtex.breadcrumb",
     "vtex.carousel": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.carousel@2.12.1/public/@types/vtex.carousel",

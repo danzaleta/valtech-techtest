@@ -5078,9 +5078,9 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-"valtech.cookie-fortune@https://danz--valtech.myvtex.com/_v/private/typings/linked/v1/valtech.cookie-fortune@0.0.1+build1720052798/public/@types/valtech.cookie-fortune":
+"valtech.cookie-fortune@https://danz--valtech.myvtex.com/_v/private/typings/linked/v1/valtech.cookie-fortune@0.0.1+build1720068795/public/@types/valtech.cookie-fortune":
   version "0.0.1"
-  resolved "https://danz--valtech.myvtex.com/_v/private/typings/linked/v1/valtech.cookie-fortune@0.0.1+build1720052798/public/@types/valtech.cookie-fortune#3e65688fd83ecfac14d4ba708a342d94a0f4f5c6"
+  resolved "https://danz--valtech.myvtex.com/_v/private/typings/linked/v1/valtech.cookie-fortune@0.0.1+build1720068795/public/@types/valtech.cookie-fortune#2393ab063331575260d5600821217b892508e249"
 
 verror@1.10.0:
   version "1.10.0"

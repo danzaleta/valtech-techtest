@@ -1,5 +1,5 @@
 {
-  "extends": "vtex",
+  "extends": "vtexio",
   "root": true,
   "env": {
     "node": true

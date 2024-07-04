@@ -1,8 +1,31 @@
-type CookieType = {
+export type CookieType = {
   CookieFortune: string
 }
 
 export const useFortune = () => {
+  const createFortuneCookie = async (newText: string) => {
+    const headers = {
+      "Accept": "application/vnd.vtex.ds.v10+json",
+      "Content-Type": "application/json"
+    }
+    const raw = JSON.stringify({
+      "CookieFortune": newText
+    });
+
+    fetch(
+      '/api/dataentities/CF/documents',
+      {
+        headers: headers ? headers : {},
+        method: 'POST',
+        redirect: 'follow',
+        body: raw
+      }
+    )
+      .then(response => response.json())
+      .then(result => console.log({ result }))
+      .catch(error => console.error(error))
+  }
+
   const fetchFortuneData = async () => {
     const fortuneData = fetch(
       '/api/dataentities/CF/search?_fields=CookieFortune',
@@ -39,6 +62,7 @@ export const useFortune = () => {
   }
 
   return {
+    createFortuneCookie,
     fetchFortuneData,
     getFortuneNumber,
     getRandomCookie,

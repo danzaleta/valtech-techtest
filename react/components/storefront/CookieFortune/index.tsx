@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { Spinner } from 'vtex.styleguide'
-
 import { useFortune } from '../../../hooks/useFortune'
 
 import styles from './index.css'

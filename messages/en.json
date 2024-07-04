@@ -1,4 +1,9 @@
 {
-  "editor.countdown.title": "Countdown",
-  "editor.countdown.description": "Countdown component"
+  "cookie-fortune.navigation.label-group": "Example admins",
+  "cookie-fortune.navigation.label-table": "Example table",
+  "cookie-fortune.navigation.search.kws": "test, mock, fake",
+  "cookie-fortune.navigation.details.search.kws": "details, mock, test, hello",
+  "cookie-fortune.navigation.table.search.kws": "table, mock, test, bye",
+  "cookie-fortune.hello-world": "Example Admin",
+  "cookie-fortune.details": "Details page"
 }

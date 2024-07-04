@@ -1,0 +1,13 @@
+{
+  "section": "orders",
+  "titleId": "cookie-fortune.navigation.label-group",
+  "subSection": "example",
+  "searchKeyWordsHelpers": "cookie-fortune.navigation.search.kws",
+  "subSectionItems": [
+    {
+      "labelId": "cookie-fortune.navigation.label-table",
+      "path": "/admin/cookie-fortune",
+      "searchKeyWordsHelpers": "cookie-fortune.navigation.table.search.kws"
+    }
+  ]
+}

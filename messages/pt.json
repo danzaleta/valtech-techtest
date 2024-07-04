@@ -1,4 +1,9 @@
 {
-  "editor.countdown.title": "Contagem regressiva",
-  "editor.countdown.description": "Componente de contagem regressiva"
+  "cookie-fortune.navigation.label-group": "Admin de exemplo",
+  "cookie-fortune.navigation.label-table": "Exemplo de tabela",
+  "cookie-fortune.navigation.search.kws": "teste, mock, fake",
+  "cookie-fortune.navigation.details.search.kws": "detalhe, mock, test, oi",
+  "cookie-fortune.navigation.table.search.kws": "tabela, mock, test, tchau",
+  "cookie-fortune.hello-world": "Admin de exemplo",
+  "cookie-fortune.details": "Admin detalhes"
 }
